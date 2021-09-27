@@ -1,0 +1,5 @@
+"Most popular type of scam, with 1460 counts: "	"scamming"
+"scamming"	1460
+"phishing"	517
+"fake ico"	5
+"scam"	1
